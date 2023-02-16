@@ -8,8 +8,7 @@
 🌱 I’m currently learning react, html, css, typescript. </br>
 
 </br>
-코드캠프 프론트엔드 수료 </br>
-건국대학교 문화콘텐츠학과 졸업 예정
+
 
 
 ![image](https://user-images.githubusercontent.com/14309582/176609319-bce22c46-db1b-46b8-81ae-4e97627364cf.png)
