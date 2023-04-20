@@ -18,11 +18,11 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&fill=ffc0cd&text=false)![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.js&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&text=false)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneebunny&show_icons=true&theme=rose_pine)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneebunny&show_icons=true&theme=rose_pine)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haneebunny&layout=compact&theme=rose_pine)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneebunny%2F&count_bg=%23F9F9D7&title_bg=%23CAE79B&icon=&icon_color=%23F7F2DF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneebunny%2F&count_bg=%23F9F9D7&title_bg=%23CAE79B&icon=&icon_color=%23F7F2DF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 </div>
 오늘은 생일
 <!---
