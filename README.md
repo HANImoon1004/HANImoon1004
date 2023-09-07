@@ -25,7 +25,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaneebunny%2F&count_bg=%23F9F9D7&title_bg=%23CAE79B&icon=&icon_color=%23F7F2DF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 </div>
 
-- 건국대학교 문화콘텐츠학과
+- 문화콘텐츠학과
 
 - react, next.js, Rest, Graph.QL, react-native expo
 - html, css, styled-components, emotion, tailwindcss 
