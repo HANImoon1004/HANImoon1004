@@ -26,7 +26,6 @@
 </div>
 
 - 문화콘텐츠학과
-
 - react, next.js, Rest, Graph.QL, react-native expo
 - html, css, styled-components, emotion, tailwindcss 
 
